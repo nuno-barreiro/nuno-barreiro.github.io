@@ -136,6 +136,6 @@ ifconfig
 On another machine just open a web browser and hit the 8080 port of the machine were Pentaho Server is running. 
 If everything went as expected you should see the below screen.
 
-![Pentaho CE 8.0 initial screen](/assets/images/pentaho_ce_8.0_login_screen.png)
+![Pentaho CE 8.0 initial screen](/assets/images/_posts/pentaho_ce_8.0_login_screen.png)
 
 Enjoy and see you on a next post.

@@ -58,7 +58,7 @@ Restart the application and you’ll notice the new Title and Child Content bein
 ### Internals
 To better understand everything that was said above lets look at the generated DLL after compilation with Visual Studio. The generated code can be seen in the below picture:
 
-![Screenshot of Counter class decompiled](/assets/images/counter_class_decompiled.png)
+![Screenshot of Counter class decompiled](/assets/images/_posts/counter_class_decompiled.png)
 
 Please note some of the things we already discussed above and see how exactly the Razor markup that is defined in the .cshtml is taken and converted into the implementation of the overriden BuildRenderTree method.
 

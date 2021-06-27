@@ -15,7 +15,7 @@ The most common fix I found recommended to run wsreset following these steps:
 
 Wonderful! Couldn't be simpler... wait!
 
-![ms-windows-store:PurgeCaches error dialog](/assets/images/ms_win_store_purge_cache_error.png)
+![ms-windows-store:PurgeCaches error dialog](/assets/images/_posts/ms_win_store_purge_cache_error.png)
 
 Currently updating? That's weird. I'm pretty sure I'm not installing anything, and I restarted my laptop a couple of minutes ago. Time to hit the web again...
 
