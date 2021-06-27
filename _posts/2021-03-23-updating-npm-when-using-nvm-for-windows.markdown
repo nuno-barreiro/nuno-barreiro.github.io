@@ -1,7 +1,7 @@
 ---
 title: Updating NPM when using the NVM for Windows
 date: 2021-03-23 09:00:00 +0000
-categories: web-development
+categories: web-development programming
 tags: nodejs nvm
 ---
 
