@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Nuno Barreiro. I'm a programmer, application architect, amateur cooker and hobbyist gamer. I'm based in Portugal, in the beatiful city of Lisbon where I was born and raised. I've been working in the software industry since 2005, with a strong focus in web development. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I blog mostly about software and technology but you might be able to find occassional musings about other topics.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I would love if you subscribe to my blog's RSS feed. You can also find me on [Twitter](https://twitter.com/_nunobarreiro), [Instagram](https://www.instagram.com/_nunobarreiro/) and [LinkedIn](https://www.linkedin.com/in/nunobarreiro/). 
 
-
-[jekyll-organization]: https://github.com/jekyll
+Feel free to reach out anytime.
