@@ -1,7 +1,6 @@
 ---
 title: Begin cross platform desktop development with Electron and Typescript
 date: 2017-11-01 14:45:00 +0000
-categories: programming desktop-development
 tags: cross-platform electron typescript
 ---
 If you would like to create a cross platform desktop application and already have the skills and experience on web development using HTML, JavaScript and CSS, then [Electron](https://electron.atom.io/) is probably what you are looking for.

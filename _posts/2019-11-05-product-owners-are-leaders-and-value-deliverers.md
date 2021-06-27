@@ -1,7 +1,6 @@
 ---
 title: Product Owners are leaders and value deliverers, not your boss
 date: 2019-11-05 14:45:00 +0000
-categories: agile scrum
 tags: agile scrum
 ---
 ![Keep calm and deliver value](/assets/images/_posts/keep_calm_deliver_value.png)

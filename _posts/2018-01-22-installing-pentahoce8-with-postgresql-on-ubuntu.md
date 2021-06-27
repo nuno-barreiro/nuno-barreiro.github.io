@@ -1,7 +1,6 @@
 ---
 title: Installing Pentaho CE 8.0 with PostgreSQL on Ubuntu Server 16.04 LTS
 date: 2018-01-22 22:10:00 +0000
-categories: tutorials business-intelligence
 tags: pentahoce
 ---
 Last week I had to install a Pentaho CE 8.0 instance on a Linux virtual machine. Ubuntu was the chosen distro and for many reasons I like to keep it simple, so instead of installing the desktop version I made the decision to run the software I needed on top of Ubuntu Server 16.04 LTS. Being the first time I had to install Pentaho CE I looked for articles to guide me through the process but unfortunately most of them were out-dated or using graphical interfaces that I didn’t had and didn’t want to add, otherwise I wouldn’t have chosen to go with the Ubuntu server version in the first place.

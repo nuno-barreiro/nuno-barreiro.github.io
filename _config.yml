@@ -1,10 +1,14 @@
 title: Nuno Barreiro 
 email: your-email@example.com
-description: Portugal based programmer and application architect
+description: Programmer and application architect
 baseurl: ""
 url: "https://www.nunobarreiro.com"
 disqus_shortname: lusocoding
 google_analytics: UA-109131329-1
+gravatar: 3df19b5c750d62ad3e773e1211ccd0e4
 
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate: 10

@@ -1,7 +1,6 @@
 ---
 title: Pass arguments to Azure CLI tasks with Ubuntu hosted agent
 date: 2019-04-23 15:00:00 +0000
-categories: tutorials devops
 tags: azure-cli azure bash scripting
 ---
 

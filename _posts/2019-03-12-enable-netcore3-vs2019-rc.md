@@ -1,7 +1,6 @@
 ---
 title: Enable .NET Core 3.0 in Visual Studio 2019 RC
 date: 2019-03-12 14:24:00 +0000
-categories: programming 
 tags: dotnet dotnet-core visual-studio ide
 ---
 

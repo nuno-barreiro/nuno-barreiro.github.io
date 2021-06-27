@@ -1,7 +1,6 @@
 ---
 title: Cleaning up ASP.NET temp files with PowerShell
 date: 2017-11-14 11:55:00 +0000
-categories: programming devops web-development
 tags: asp.net iis powershell scripting
 ---
 One of the things that you must certainly have to deal with when developing ASP.NET applications in when you try to debug some piece of code but for some reason it seems that it keeps loading old versions of the assemblies and not the most recent build you just did.

@@ -1,7 +1,6 @@
 ---
 title: Improving companywide usage of Slack
 date: 2020-03-15 15:00:00 +0000
-categories: productivity tooling
 tags: slack chat teams
 ---
 
