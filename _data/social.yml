@@ -1,0 +1,19 @@
+- name: Twitter
+  username: _nunobarreiro
+  href: https://twitter.com
+  icon: fa-twitter
+
+- name: Instagram
+  username: _nunobarreiro
+  href: https://www.instagram.com
+  icon: fa-instagram
+
+- name: GitHub
+  username: nuno-barreiro
+  href: https://github.com
+  icon: fa-github-alt
+
+- name: LinkedIn
+  username: nunobarreiro
+  href: https://www.linkedin.com/in
+  icon: fa-linkedin-in

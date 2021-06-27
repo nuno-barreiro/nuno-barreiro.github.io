@@ -1,0 +1,8 @@
+<ul class="social-media-list">
+  {% for item in site.data.social %}
+    <li>
+      <i class="fab {{ item.icon }}"></i>
+      <a href="{{ item.href }}/{{ item.username }}" target="_blank"><span class="username">{{ item.username }}</span></a>
+    </li>
+  {% endfor %}
+</ul>
