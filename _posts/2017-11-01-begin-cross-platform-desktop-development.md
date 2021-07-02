@@ -2,6 +2,7 @@
 title: Begin cross platform desktop development with Electron and Typescript
 date: 2017-11-01 14:45:00 +0000
 tags: cross-platform electron typescript
+published: true
 ---
 If you would like to create a cross platform desktop application and already have the skills and experience on web development using HTML, JavaScript and CSS, then [Electron](https://electron.atom.io/) is probably what you are looking for.
 
@@ -98,7 +99,7 @@ Finally update the *package.json* file to properly configure the entry point of 
 
 We are now ready to start our app. All we have to do is to execute npm start from the command line and:
 
- ![Electron demo initial screen](/assets/images/_posts/electron-tsc-app-initial-screen.png)
+ ![Electron demo initial screen](/assets/images/posts/electron-tsc-app-initial-screen.png)
 
 Our app is now running and since we included electron-reload in our application we’ll also be able to change the code and see those changes reflected in our application without having to restart it.
 

@@ -2,6 +2,7 @@
 title: Web Assembly with C# II – Blazor Components
 date: 2019-01-22 22:53:00 +0000
 tags: dotnet dotnet-core blazor wasm
+published: false
 ---
 > This post is part of a series that introduces WebAssembly with and Blazor, a web framework to build single page applications using C#, Razor and ASP.NET Core. If you would like to see the previous posts, please follow the below links. You can also follow the GitHub repository created for this series [here](https://github.com/lusocoding/wasm-blazor-intro).
 > 
@@ -57,7 +58,7 @@ Restart the application and you’ll notice the new Title and Child Content bein
 ### Internals
 To better understand everything that was said above lets look at the generated DLL after compilation with Visual Studio. The generated code can be seen in the below picture:
 
-![Screenshot of Counter class decompiled](/assets/images/_posts/counter_class_decompiled.png)
+![Screenshot of Counter class decompiled](/assets/images/posts/counter_class_decompiled.png)
 
 Please note some of the things we already discussed above and see how exactly the Razor markup that is defined in the .cshtml is taken and converted into the implementation of the overriden BuildRenderTree method.
 

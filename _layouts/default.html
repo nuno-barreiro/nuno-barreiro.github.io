@@ -1,43 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {%- seo %}
+    <link rel="stylesheet" href="/assets/css/style.css" />
+    <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/assets/fontawesome/css/fontawesome.min.css" />
+  </head>
 
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  {%- seo %}
-  <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/assets/fontawesome/css/fontawesome.min.css">
-</head>
-
-<body>
-  <div class="container">
-    <div id="page-content" class="row">
-      <div class="col-sm-3">
-        <figure>
-          <img src="https://s.gravatar.com/avatar/{{site.gravatar}}?s=140" alt="{{site.title}}-{{site.description}}" >
-        </figure>
-        <h1>{{site.title}}</h1>
-        <div>
-          {{site.description}}
+  <body>
+    <div class="container p-3">
+      <div id="page-content" class="row">
+        <div class="col-sm-3">
+          <figure>
+            <a href="/">
+              <img
+                src="https://s.gravatar.com/avatar/{{site.gravatar}}?s=140"
+                alt="{{site.title}}-{{site.description}}"
+              />
+            </a>
+          </figure>
+          <h1>{{site.title}}</h1>
+          <div>{{site.description}}</div>
+          <div>
+            <ul>
+              {% for item in site.data.social %}
+              <li>
+                <a href="{{item.href}}/{{item.username}}" target="_blank">
+                  <span class="fab {{item.icon}}"></span>
+                  {{item.name}}
+                </a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
         </div>
-        <div>
-          <ul>
-            {% for item in site.data.social %}
-            <li>
-              <a href="{{item.href}}/{{item.username}}" target="_blank">
-                <span class="fab {{item.icon}}"></span>
-              </a>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      <div class="col-sm-8 col-offset-1">
-        {{ content }}
+        <div class="col-sm-8 col-offset-1">{{ content }}</div>
       </div>
     </div>
-  </div>
-</body>
-
+  </body>
 </html>

@@ -2,8 +2,9 @@
 title: Product Owners are leaders and value deliverers, not your boss
 date: 2019-11-05 14:45:00 +0000
 tags: agile scrum
+published: true
 ---
-![Keep calm and deliver value](/assets/images/_posts/keep_calm_deliver_value.png)
+![Keep calm and deliver value](/assets/images/posts/keep_calm_deliver_value.png){:class="mx-auto d-block w-50"}
 
 Scrum has a very well defined set of roles. If you’re not one of the team members that is directly developing the product (e.g. developer, tester, designer, etc.) you’re either a Scrum Master (SM) or a Product Owner (PO). And it’s about the latter that I would like to talk about today since I feel there are a lot of misconceptions around their role.
 

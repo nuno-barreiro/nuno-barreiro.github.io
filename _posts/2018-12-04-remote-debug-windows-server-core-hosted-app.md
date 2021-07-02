@@ -2,6 +2,7 @@
 title: Remote Debug of a Windows Server Core hosted application from VS 2017
 date: 2018-12-04 14:51:00 +0000
 tags: visual-studio debugging
+published: true
 ---
 If you have an application hosted in a Windows Server 2016 Core machine and would like to debug it directly from Visual Studio 2017, then its very simple to configure remote debugging.
 
@@ -27,7 +28,7 @@ Get-Service -Name msvsmon150
 
 Now that the remote is up and running, open your project with Visual Studio 2017, set the breakpoints you need and open the **"Attach to Process"** dialog (Debug > Attach to Process). Input the IP of the machine where you just installed the remote debugger and use port **4022** which is the default. After that click on Refresh and you should see the list of processes running on that machine, like the below figure:
 
-![Visual Studio - Attach to Process dialog](/assets/images/_posts/vs_attach_to_process.png)
+![Visual Studio - Attach to Process dialog](/assets/images/posts/vs_attach_to_process.png)
 
 Final step, as you may know, just select the process you want and click on Attach. Execute any necessary steps and the debugger should now stop in the breakpoints you've setup.
 

@@ -2,6 +2,7 @@
 title: Styling RadAutoCompleteTextView with Nativescript and Angular2
 date: 2017-11-14 11:55:00 +0000
 tags: typescript nativescript angular
+published: true
 ---
 Lately I’ve been working a lot with [Nativescript](https://www.nativescript.org/) to develop mobile apps able to run in Android and iOS devices.
 

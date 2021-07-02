@@ -2,6 +2,7 @@
 title: Improving companywide usage of Slack
 date: 2020-03-15 15:00:00 +0000
 tags: slack chat teams
+published: true
 ---
 
 The Corona virus outbreak is here and is changing the way companies work, including Evident my current company. Truth is that many workers are now at home and posts about remote work are being published every day especially in our industry. 

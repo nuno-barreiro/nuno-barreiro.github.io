@@ -2,6 +2,7 @@
 title: Windows10 store not launching
 date: 2020-03-17 00:20:00 +0000
 tags: windows troubleshooting
+published: true
 ---
 Some days ago, I can't exactly precise when, the Windows store on my laptop suddenly stop launching. 
 At that time, I checked all Windows and manufacturer updates and confirmed everything was already installed. After restarting my laptop (works 99.9% of the times as you might know) the next step would be to search the web.
@@ -14,7 +15,7 @@ The most common fix I found recommended to run wsreset following these steps:
 
 Wonderful! Couldn't be simpler... wait!
 
-![ms-windows-store:PurgeCaches error dialog](/assets/images/_posts/ms_win_store_purge_cache_error.png)
+![ms-windows-store:PurgeCaches error dialog](/assets/images/posts/ms_win_store_purge_cache_error.png){:class="img-fluid"}
 
 Currently updating? That's weird. I'm pretty sure I'm not installing anything, and I restarted my laptop a couple of minutes ago. Time to hit the web again...
 
