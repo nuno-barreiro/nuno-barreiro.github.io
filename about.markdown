@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<p class="about-image">
+    <img class="gravatar" src="http://www.gravatar.com/avatar/3df19b5c750d62ad3e773e1211ccd0e4?s=200">
+</p>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hi, my name is Nuno Barreiro.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm a programmer, consultant, blogger, technologist and enthusiast gamer. I've worked for many companies throughout the years which allowed me to gain a lot of experience in multiple business areas. I also like to write and to share my knowledge and experience and so I started this blog.
 
+If you want to follow my latest updates please subscribe to my blog's [RSS feed](/feed.xml), or you can also follow me on [Twitter](https://twitter.com/_nunobarreiro) or reach out via [LinkedIn](https://ww.linkedin.com/in/nunobarreiro/).
 
-[jekyll-organization]: https://github.com/jekyll
+All the content and opinions on this site are my own.%
