@@ -24,8 +24,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   Programmer and software architect based in Lisbon, Portugal.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nunobarreiro.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: _nunobarreiro
+
+# Social Links
 github_username:  nuno-barreiro
+linkedin_username: nunobarreiro
+mastodon:
+  - username: nunobarreiro
+    instance: hachyderm.io
 
 # Build settings
 theme: minima
