@@ -7,7 +7,7 @@ Tags:
   - Scrum
 ---
 <p align="center">
-    <img src="../images/keep_calm_deliver_value.png" alt="Keep calm and deliver value"/>
+    <img src="/images/keep_calm_deliver_value.png" alt="Keep calm and deliver value"/>
 </p>
 
 Scrum has a very well defined set of roles. If you’re not one of the team members that is directly developing the product (e.g. developer, tester, designer, etc.) you’re either a Scrum Master (SM) or a Product Owner (PO). And it’s about the latter that I would like to talk about today since I feel there are a lot of misconceptions around their role.
