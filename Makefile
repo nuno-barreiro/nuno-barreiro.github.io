@@ -1,3 +1,8 @@
+setup:
+	asdf install
+	gem install bundler jekyll
+	bundle install
+
 build:
 	bundle exec jekyll build
 
