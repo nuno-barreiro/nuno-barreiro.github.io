@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adding Audio Selector Extension For Ubuntu"
+title:  "Show Audio Selector in Ubuntu System Tray"
 tags:
   - extensions
   - nvidia
