@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using Jekyll with ASDF in WSL
+title:  "Using Jekyll with ASDF in WSL"
 tags:
   - jekyll
   - asdf
